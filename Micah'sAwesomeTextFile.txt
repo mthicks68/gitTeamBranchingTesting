@@ -1,3 +1,5 @@
-I did say this was an awesome text file right?
+I did say this"MERGE CONFLICT (MAYBE)"xt file right?
 
 Nah it's kinda bad tbh.
+
+Oh also, bad
